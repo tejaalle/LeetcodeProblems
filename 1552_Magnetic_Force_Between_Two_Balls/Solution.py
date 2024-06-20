@@ -1,3 +1,4 @@
+from typing import List
 class Solution:
     def canPlaceBall(self, x, position, m):
         balls = 1
